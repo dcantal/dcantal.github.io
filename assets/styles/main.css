@@ -4118,6 +4118,10 @@ fieldset[disabled] .form-control:hover {
 }
 ss
 
+.project-shortcut {
+  padding: 10px;
+}
+
 /* ---- 9.14 Features - Image Left ---- */
 .ft-img-left .ft-content {
   position: relative;
